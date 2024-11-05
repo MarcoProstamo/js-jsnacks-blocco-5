@@ -9,3 +9,4 @@ const posts = [
 // Risultato: ['Marco', 'Luca', 'Fabrizio', 'Enrico']
 
 const authorNames = posts.map((post) => post.author);
+console.log(authorNames);
